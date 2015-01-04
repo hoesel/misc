@@ -1,0 +1,12 @@
+xterm*Foreground:       white
+xterm*Background:       black
+xterm*Border:           dark blue
+xterm*ScrollBar:        on
+xterm*TitleBar:         on
+xterm*TextUnderIcon:    on
+xterm*AllowIconInput:   on
+xterm*AutoRaise:        on
+xterm*termtype:         vt100
+xterm*ttyModes:         intr ^c erase ^h susp ^@ dsusp ^@ kill ^u eof ^d
+XTerm*faceName: Mono
+XTerm*faceSize: 12
